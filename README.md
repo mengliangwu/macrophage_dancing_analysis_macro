@@ -1,6 +1,8 @@
 # macrophage_dancing_analysis_macro
 This script can be added in Fiji (ImageJ) to help analyse corneal stromal macrophage morphology and dynamics (Dancing Index) in Fun-IVCM videos.
 
+Put the macro in this directory: ...\Fiji.app\plugins\Scripts\IVCM\ (the folder "IVCM" can be created)
+
 Before running, cell tracing should be performed manually
  - Trace the same cell for all frames (Shortcut "T" to add into ROI manager) and save the ROIs as .zip (one .zip for each cell), save all ROIs from a video in the same folder
 
