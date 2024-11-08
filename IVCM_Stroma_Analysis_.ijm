@@ -3,7 +3,7 @@
 //This script helps to analyse corneal stromal macrophage morphology and dynamics (Dancing Index)
 //Before running, trace the same cell for all frames and save it as ROI.zip, save all ROIs from a video in the same folder
 //
-//Author: Mengliang Wu (mengliang.wu1@unimelb.edu.au)
+//Author: Mengliang Wu (mengliang.wu@unimelb.edu.au)
 //June 2024
 //License: BSD3
 
