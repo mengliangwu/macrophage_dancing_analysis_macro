@@ -10,7 +10,7 @@ Field area is the convex hull area of the cell shape.
 
 The result gives Dancing Index as "non-overlapped area/total area" after co-centralisation of the two cell shapes from two time-points. The value should then be devided by time to get the final Dancing Index.
 
-Author: Mengliang Wu (mengliang.wu1@unimelb.edu.au)
+Author: Mengliang Wu (mengliang.wu@unimelb.edu.au)
 
 June 2024
 
